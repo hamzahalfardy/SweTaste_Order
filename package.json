@@ -1,9 +1,9 @@
 {
-  "name": "food-order",
+  "name": "SweTaste_Order",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": " https://hamzahalfardy.github.io/SweTaste_Republic/",
+  "homepage": " https://hamzahalfardy.github.io/SweTaste_Order/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
